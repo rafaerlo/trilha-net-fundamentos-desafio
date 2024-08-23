@@ -20,7 +20,4 @@ precoPorHora = Convert.ToDecimal(Console.ReadLine());
 Estacionamento es = new Estacionamento(precoInicial, precoPorHora);
 Menu menu = new Menu(es);
 
-string opcao = string.Empty;
-
-
 Console.WriteLine("O programa se encerrou");
