@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: DesafioFundamentos",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\DesafioFundamentos.csproj",
+            "launchConfigurationId": "TargetFramework=;DesafioFundamentos"
+        }
+    ]
+}
